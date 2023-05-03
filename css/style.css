@@ -29,3 +29,27 @@ h1 {
 body {
     background-color: #f6f8f9;
 }
+
+.container {
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+    padding: 30px;
+    line-height: 30px;
+}
+
+#button1 {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    border: 2px solid dodgerblue;
+    border-radius: 10px;
+}
+
+#button2 {
+    background-color: white;
+    color: gray;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
