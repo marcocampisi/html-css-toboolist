@@ -1,4 +1,11 @@
 /* Reset */
 * {
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General */
+* {
+    font-family: 'Roboto', sans-serif;
 }
