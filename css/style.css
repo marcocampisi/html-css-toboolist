@@ -58,6 +58,11 @@ body {
     margin: 15px auto;
 }
 
+.activities {
+    margin: 20px;
+    padding: 5px;
+}
+
 .check {
     border-radius: 50%;
     height: 30px;
