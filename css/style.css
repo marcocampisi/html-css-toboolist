@@ -53,3 +53,34 @@ body {
     border: 2px solid gray;
     border-radius: 10px;
 }
+
+.tasks {
+    margin: 15px auto;
+}
+
+.check {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 1px solid green;
+    color: green;
+    display: inline-block;
+    text-align: center;
+}
+
+.not-done {
+    border-color: red;
+    color: red;
+}
+
+.type {
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: small;
+    
+}
+
+.editorial {
+    background-color: dodgerblue;
+}
